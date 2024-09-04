@@ -21,7 +21,7 @@ This Python script is designed to sniff HTTP traffic on a specified network inte
 
     ```bash
     git clone https://github.com/NULLxDEF/packet_sniffer.git
-    cd arp-spoof
+    cd packet_sniffer
     ```
 
 2. **Create and activate the virtual environment:**
